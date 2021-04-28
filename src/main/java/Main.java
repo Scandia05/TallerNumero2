@@ -36,9 +36,9 @@ public class Main {
                     fin--;
                 }
                 if(b)
-                    System.out.print("\nEs palindromo.");
+                    System.out.print(" Es palindromo.");
                 else
-                    System.out.print("\nNo es palindromo.");
+                    System.out.print(" No es palindromo.");
 
 
             }
